@@ -1,10 +1,4 @@
-Got it 👍
-Below is a **fully copy-pasteable Markdown document**.
-You can copy **everything as-is** into `README.md` (no truncation, no missing blocks).
 
----
-
-````md
 # 📘 MySQL Audit Log & Revert System
 
 This document describes a **database-level audit and undo system** built using **MySQL**.
