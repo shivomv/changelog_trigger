@@ -317,13 +317,3 @@ CALL revert_change(5);
 
 ```
 
----
-
-If you want, next I can:
-- add **diagram**
-- add **example triggers**
-- add **INSERT revert**
-- add **restore-to-timestamp**
-
-Just say **next** 👍
-```
